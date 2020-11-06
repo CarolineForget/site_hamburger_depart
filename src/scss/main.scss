@@ -30,12 +30,15 @@
 @import "elements/links";
 @import "elements/wrapper";
 
+@import "elements/structure";
+
 
 
 // COMPONENTS
 // Composants d'interface utilisateur spécifiques.
 // C’est là que la majorité de notre travail a lieu.
-
+@import "components/section-intro";
+@import "components/section-message";
 
 
 
